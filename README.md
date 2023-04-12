@@ -4,6 +4,7 @@ This Repository Contains All General Information
 
 - [General](#general)
   - [You can save your time by using these shortcuts](#you-can-save-your-time-by-using-these-shortcuts)
+  - [Basic Github Commands](#you-can-save-your-time)
 
 ## You can save your time by using these shortcuts
 
