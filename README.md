@@ -91,7 +91,4 @@ This Repository Contains All General Information
 | Git Commands                                        | Action                                                                 |
 | --------------------------------------------------- | ---------------------------------------------------------------------- |
 | git init                                            | Create empty Git repo in specified directory.                          |
-|                                                     | Run with noarguments to initialize the                                 |
-|                                                     | current directory as a git repository                                  |
-|                                                     |                                                                        |
 
