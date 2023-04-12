@@ -4,7 +4,7 @@ This Repository Contains All General Information
 
 - [General](#general)
   - [You can save your time by using these shortcuts](#you-can-save-your-time-by-using-these-shortcuts)
-  - [Basic Github Commands](#you-can-save-your-time)
+  - [Basic Github Commands](#you-can-refer-these-git-commands)
 
 ## You can save your time by using these shortcuts
 
@@ -84,3 +84,12 @@ This Repository Contains All General Information
 | <kbd>Alt</kbd> + <kbd>⬇</kbd>                       | automatic view format                                                  |
 | <kbd>Alt</kbd> + <kbd>'</kbd>                       | Format Style Dialog                                                    |
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>~</kbd>   | General Format                                                         |
+--------------------------------------------------------------------------------------------------------------------------------
+
+## You can refer these git commands
+
+| Git Commands                                        | Action                                                                 |
+| --------------------------------------------------- | ---------------------------------------------------------------------- |
+| git branch                                          | To check in which branch you are                                       |
+|                                                     |                                                                        |
+
