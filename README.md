@@ -90,6 +90,8 @@ This Repository Contains All General Information
 
 | Git Commands                                        | Action                                                                 |
 | --------------------------------------------------- | ---------------------------------------------------------------------- |
-| git branch                                          | To check in which branch you are                                       |
+| git init                                            | Create empty Git repo in specified directory.                          |
+|                                                     | Run with noarguments to initialize the                                 |
+|                                                     | current directory as a git repository                                  |
 |                                                     |                                                                        |
 
