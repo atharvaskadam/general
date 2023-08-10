@@ -91,4 +91,5 @@ This Repository Contains All General Information
 | Git Commands                                        | Action                                                                 |
 | --------------------------------------------------- | ---------------------------------------------------------------------- |
 | git init                                            | Create empty Git repo in specified directory.                          |
+| git config --global user.name                       | Configure the author name                                              |
 
