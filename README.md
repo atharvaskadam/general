@@ -1,6 +1,6 @@
 # General
 
-This Repository Contains All General Informatio
+This Repository Contains All General Information
 
 - [General](#general)
   - [You can save your time by using these shortcuts](#you-can-save-your-time-by-using-these-shortcuts)
