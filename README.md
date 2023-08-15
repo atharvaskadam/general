@@ -102,3 +102,11 @@ This Repository Contains All General Information
 | git push origin master                              | Send changes to the master branch of your remote repository            |
 | git status                                          | List the files you've changed and those you still need to add or commit|
 | git remote add origin "server"                      | If you haven't connected your local repository to a remote server, add the server to be able to push to it|
+| git remote -v                                       | List all currently configured remote repositories                      |
+| git checkout -b "branchname"                        | Create a new branch and switch to it                                   |
+| git checkout "branchname"                           | Switch from one branch to another                                      |
+| git branch                                          | List all the branches in your repo, and also tell you what branch you're currently in|
+| git branch -d "branchname"                          | Delete the feature branch                                              |
+| git push origin "branchname"                        | Push the branch to your remote repository, so others can use it        |
+| git push --all origin                               | Push all branches to your remote repository                            |
+| git push origin :"branchname"                       | Delete a branch on your remote repository                              |
