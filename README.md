@@ -97,3 +97,8 @@ This Repository Contains All General Information
 | git clone /path/to/repository                       | Create a working copy of a local repository                            |
 | git add "filename"                                  | Add one or more files to staging (index)                               |
 | git add *                                           | Add one or more files to staging (index                                |
+| git commit -m "Commit message"                      | Commit changes to head (but not yet to the remote repository)          |
+| git commit -a                                       | Commit any files you've added with git add, and also commit any files you've changed|
+| git push origin master                              | Send changes to the master branch of your remote repository            |
+| git status                                          | List the files you've changed and those you still need to add or commit|
+| git remote add origin "server"                      | If you haven't connected your local repository to a remote server, add the server to be able to push to it|
