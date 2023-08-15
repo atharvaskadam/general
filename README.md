@@ -4,7 +4,8 @@ This Repository Contains All General Information
 
 - [General](#general)
   - [You can save your time by using these shortcuts](#you-can-save-your-time-by-using-these-shortcuts)
-  - [Basic Github Commands](#you-can-refer-these-git-commands)
+  - [| Ctrl + Shift + ~   | General Format                                                         |](#-ctrl--shift------general-format---------------------------------------------------------)
+  - [You can refer these git commands](#you-can-refer-these-git-commands)
 
 ## You can save your time by using these shortcuts
 
@@ -90,6 +91,9 @@ This Repository Contains All General Information
 
 | Git Commands                                        | Action                                                                 |
 | --------------------------------------------------- | ---------------------------------------------------------------------- |
+| git config --global user.name                       | Configures the author name                                             |
+| git config --global user.email                      | Configures the author email                                            |
 | git init                                            | Create empty Git repo in specified directory.                          |
-| git config --global user.name                       | Configure the author name                                              |
-
+| git clone /path/to/repository                       | Create a working copy of a local repository                            |
+| git add "filename"                                  | Add one or more files to staging (index)                               |
+| git add *                                           | Add one or more files to staging (index                                |
