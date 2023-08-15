@@ -4,7 +4,6 @@ This Repository Contains All General Information
 
 - [General](#general)
   - [You can save your time by using these shortcuts](#you-can-save-your-time-by-using-these-shortcuts)
-  - [| Ctrl + Shift + ~   | General Format                                                         |](#-ctrl--shift------general-format---------------------------------------------------------)
   - [You can refer these git commands](#you-can-refer-these-git-commands)
 
 ## You can save your time by using these shortcuts
@@ -85,7 +84,8 @@ This Repository Contains All General Information
 | <kbd>Alt</kbd> + <kbd>⬇</kbd>                       | automatic view format                                                  |
 | <kbd>Alt</kbd> + <kbd>'</kbd>                       | Format Style Dialog                                                    |
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>~</kbd>   | General Format                                                         |
---------------------------------------------------------------------------------------------------------------------------------
+
+---
 
 ## You can refer these git commands
 
