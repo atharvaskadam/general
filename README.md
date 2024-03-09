@@ -110,3 +110,4 @@ This Repository Contains All General Information
 | git push origin "branchname"                        | Push the branch to your remote repository, so others can use it        |
 | git push --all origin                               | Push all branches to your remote repository                            |
 | git push origin :"branchname"                       | Delete a branch on your remote repository                              |
+| git pull                                            | Fetch and merge any commits from the tracking remote branch            |
